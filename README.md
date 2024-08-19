@@ -1,0 +1,2 @@
+# javaScript-Code
+simple codes
